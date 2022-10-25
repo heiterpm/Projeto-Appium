@@ -107,3 +107,4 @@ D:\dev\Projetowebcsharp\Appiumtentativa1\Appiumtentativa1\obj\Debug\net6.0\refin
 D:\dev\Projetowebcsharp\Appiumtentativa1\Appiumtentativa1\obj\Debug\net6.0\Appiumtentativa1.pdb
 D:\dev\Projetowebcsharp\Appiumtentativa1\Appiumtentativa1\obj\Debug\net6.0\Appiumtentativa1.genruntimeconfig.cache
 D:\dev\Projetowebcsharp\Appiumtentativa1\Appiumtentativa1\obj\Debug\net6.0\ref\Appiumtentativa1.dll
+D:\dev\Projetowebcsharp\Appiumtentativa1\Appiumtentativa1\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll

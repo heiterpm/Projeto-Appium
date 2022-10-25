@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Izg/rxg7zV71M8uXRzXxktoCT5bjA4LueWGWX3MDEXzXrJ+AG/VXl4OG9d+1M7H4s18A7xbzYGHO21RqF+3zcQ==",
+  "dgSpecHash": "1SXzTvAlMZn67/Nyf2BLZQ7A5vNos7nEJg2373O5VZ9RzUzTyKw6CoUlrwsPNkukMgD+ynTyin+B9shEPRsP5w==",
   "success": true,
   "projectFilePath": "D:\\dev\\Projetowebcsharp\\Appiumtentativa1\\Appiumtentativa1\\Appiumtentativa1.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\heite\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\heite\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\heite\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\heite\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\heite\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\heite\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
     "C:\\Users\\heite\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
